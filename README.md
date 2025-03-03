@@ -1,6 +1,6 @@
 <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hello%2C+I'm+JavoxirIT!;Welcome+to+my+GitHub+profile!;Full-stack+developer!;Passionate+about+coding+and+automation!" />
 
-# 👋 Hello! I'm Mirjaxon Qaxxarov
+# 👋 Hello! I'm Xasanov Javoxir
 
 ## 🚀 About Me
 
