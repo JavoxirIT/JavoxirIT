@@ -4,10 +4,9 @@
 
 ## 🚀 About Me
 
--   🔭 I’m currently working on **backend development and automation projects**
--   🌱 I’m currently learning **.NET, and cloud security**
+-   🔭 I’m currently working on **frontend development and automation projects**
 -   👯 I’m looking to collaborate on **open-source and cybersecurity projects**
--   💬 Ask me about **Python, PHP, NestJS, Laravel, Django, MySQL, and more**
+-   💬 Ask me about **Javascript, PHP, NestJS, MySQFL, MySQL, and more**
 -   ⚡ Fun fact: **I love nature, mountains, and exploring new technologies**
 
 ## GitHub Stats
